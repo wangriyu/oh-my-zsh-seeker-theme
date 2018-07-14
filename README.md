@@ -17,7 +17,7 @@ I recommend to use [antigen][] for installing this theme:
 
     # $HOME/.zshrc
     source /usr/local/share/antigen.zsh
-
+    
     antigen use oh-my-zsh
     antigen theme tonyseek/oh-my-zsh-seeker-theme seeker
     antigen apply
@@ -27,7 +27,7 @@ It could be upgraded by `antigen update` command.
 Screenshot
 ==========
 
-![preview of the seeker theme](https://raw.github.com/tonyseek/oh-my-zsh-seeker-theme/gh-assets/preview.png)
+![preview of the seeker theme](img.png)
 
 
 [ys]: https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#ys

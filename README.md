@@ -13,16 +13,8 @@ the [ys][].
 Installation
 ------------
 
-I recommend to use [antigen][] for installing this theme:
-
-    # $HOME/.zshrc
-    source /usr/local/share/antigen.zsh
-    
-    antigen use oh-my-zsh
-    antigen theme tonyseek/oh-my-zsh-seeker-theme seeker
-    antigen apply
-
-It could be upgraded by `antigen update` command.
+1. copy `seeker.zsh-theme` to ~/.oh-my-zsh/custom/themes/
+2. then change .zshrc ZSH_THEME to "seeker"
 
 Screenshot
 ==========
